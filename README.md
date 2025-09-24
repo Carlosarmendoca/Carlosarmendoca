@@ -1,13 +1,18 @@
-### Olá, eu sou o Carlos 👍
+###Olá, eu sou o Carlos 👍
 
-## Em construção
+## 🚧 Em construção
 
-Sobre mim:
+### Sobre mim:
 
-- 🔭 Atualmente trabalho como 
-- 🏠 Atualmente 
-- 🌱
-- 🤓 
+- 🔭 Atualmente trabalho como Técnico de Manutenção
+- 🛠 Experiência atuando com:
+  - Planejamento : Análise de falhas e confiabilidade de equipamentos  
+  - Elaboração de planos de manutenção preventiva e corretiva  
+  - Projetos de melhoria contínua e indicadores de performance (OEE, MTTR, MTBF)   
+- 🏠 Moro em Curitiba - PR, Brasil  
+- 🌱 Estou estudando **Python**, **SQL**, **Power BI** e **Cloud Computing**  
+
+
 
 Principais Ferramentas:
 <div>
