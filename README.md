@@ -1,18 +1,22 @@
 ###Olá, eu sou o Carlos 👍
 
-## 🚧 Em construção
 
 ### Sobre mim:
 
 - 🔭 Atualmente trabalho como Técnico de Manutenção
 - 🛠 Experiência atuando com:
-  - Planejamento : Análise de falhas e confiabilidade de equipamentos  
-  - Elaboração de planos de manutenção preventiva e corretiva  
-  - Projetos de melhoria contínua e indicadores de performance (OEE, MTTR, MTBF)   
-- 🏠 Moro em Curitiba - PR, Brasil  
-- 🌱 Estou estudando **Python**, **SQL**, **Power BI** e **Cloud Computing**  
+  Atuo como Técnico de Manutenção, com forte envolvimento em análise de falhas,
+  confiabilidade de equipamentos e melhoria contínua. Ao longo da minha trajetória,
+  desenvolvi uma visão orientada a indicadores e uma tomada de decisão baseada em dados.
 
+Atualmente estou direcionando minha carreira para a área de Dados, aprofundando conhecimentos em:
 
+▪ SQL (análise e modelagem de dados)
+▪ Python para análise e automação
+▪ Power BI e Looker Studio
+▪ Cloud Computing (ecossistema GCP)
+
+- 🏠 Moro em Curitiba - PR, Brasil
 
 Principais Ferramentas:
 <div>
