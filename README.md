@@ -17,6 +17,7 @@ Atualmente estou direcionando minha carreira para a área de Dados, aprofundando
 ▪ Cloud Computing (ecossistema GCP)
 
 - 🏠 Moro em Curitiba - PR, Brasil
+- English — Intermediate (B1)
 
 Principais Ferramentas:
 <div>
