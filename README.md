@@ -18,6 +18,9 @@ Atualmente estou direcionando minha carreira para a área de Dados, aprofundando
 
 - 🏠 Moro em Curitiba - PR, Brasil
 - English — Intermediate (B1)
+- Formação:
+- Analise e Desenvolvimento de Sistemas
+- Técnico em Mecatrônica
 
 Principais Ferramentas:
 <div>
