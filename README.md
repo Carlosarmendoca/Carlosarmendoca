@@ -2,7 +2,7 @@
 
 
 ### Sobre mim:
-
+- 🏠 Moro em Curitiba - PR, Brasil
 - 🔭 Atualmente trabalho como Técnico de Manutenção
 - 🛠 Experiência atuando com:
   Atuo como Técnico de Manutenção, com forte envolvimento em análise de falhas,
@@ -16,7 +16,6 @@ Atualmente estou direcionando minha carreira para a área de Dados, aprofundando
 ▪ Power BI e Looker Studio
 ▪ Cloud Computing (ecossistema GCP)
 
-- 🏠 Moro em Curitiba - PR, Brasil
   
  Formação:
 - Analise e Desenvolvimento de Sistemas
